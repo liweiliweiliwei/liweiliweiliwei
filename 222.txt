@@ -1,0 +1,11 @@
+你好 珠峰
+
+git add a   加入暂存区
+
+
+git commit -m"注释"   存入历史区
+
+
+git push 远程仓库地址 master
+
+git status   查看当前暂存区 历史区的 东西
